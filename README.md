@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IndhuAyyappan/IndhuAyyappan/main/assets/indhu_banner.png" width="100%" />
+</p>
 # 👋 Hi, I'm Indhu
 
 Graduate student in **Bioinformatics (M.BINF, University of Guelph)** with an
