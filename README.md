@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IndhuAyyappan/IndhuAyyappan/main/assets/indhu_banner.png" width="100%" />
 </p>
-# 👋 Hi, I'm Indhu
+👋 Hi, I'm Indhu
 
 Graduate student in **Bioinformatics (M.BINF, University of Guelph)** with an
 engineering + quality systems background (HACCP, GMP, ISO 9001).  
@@ -31,7 +31,7 @@ Conceptual RNA-seq workflow connecting processing conditions to gene expression 
 ### 🛠 Tools
 
 `Python` · `R (tidyverse, ggplot2)` · `bash` · `Git/GitHub`  
-`PLINK2` · `TASSEL` · `JupyterLab` · `RStudio`
+`PLINK2` · `TASSEL` · `RStudio`
 
 ---
 
