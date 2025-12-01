@@ -9,14 +9,14 @@ I like building **reproducible workflows** for genomics and scientific data.
 
 ---
 
-### 🧬 What I work on
+###  What I work on
 
 - GWAS pipelines (PLINK2, R, ggplot2)
 - RNA-seq concepts & QC
 - Barcode / phylogenetic workflows in R
 - Reproducible analysis & documentation (Git, Markdown)
 
-## 🧪 Selected projects
+##  Selected projects
 
 ### **Barcode-Based Species Richness Analysis (Danioninae)**
 Analyzed Danioninae COI sequences using tidyverse tools. Automated QC, generated **specaccum curves**, summarized species diversity patterns, and evaluated sampling completeness.  
@@ -28,7 +28,7 @@ Conceptual RNA-seq workflow connecting processing conditions to gene expression 
 
 ---
 
-### 🛠 Tools
+###  Tools
 
 `Python` · `R (tidyverse, ggplot2)` · `bash` · `Git/GitHub`  
 `PLINK2` · `TASSEL` · `RStudio`
