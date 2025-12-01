@@ -1,42 +1,45 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IndhuAyyappan/IndhuAyyappan/main/assets/indhu_banner.png" width="100%" />
 </p>
-👋 Hi, I'm Indhu
+# 👋 Hi, I'm Indhu
 
-Graduate student in **Bioinformatics (M.BINF, University of Guelph)** with an
-engineering + quality systems background (HACCP, GMP, ISO 9001).  
-I like building **reproducible workflows** for genomics and scientific data.
+Bioinformatics student at the University of Guelph (M.BINF) with an engineering + quality systems background.  
+I love building clean, reproducible workflows for genomics and scientific data.
+
+When I'm not debugging pipelines, I'm usually drinking coffee or taking pictures of my cats 🐾✨.
 
 ---
 
-###  What I work on
+## 🧬 What I work on
 
 - GWAS pipelines (PLINK2, R, ggplot2)
 - RNA-seq concepts & QC
-- Barcode / phylogenetic workflows in R
+- Barcode / phylogenetic analysis in R
 - Reproducible analysis & documentation (Git, Markdown)
 
-##  Selected projects
+---
+
+## 🚀 Projects
 
 ### **Barcode-Based Species Richness Analysis (Danioninae)**
-Analyzed Danioninae COI sequences using tidyverse tools. Automated QC, generated **specaccum curves**, summarized species diversity patterns, and evaluated sampling completeness.  
-▶ **[View repo](https://github.com/IndhuAyyappan/Danioninae_BOLD)**
+Analyzed COI barcodes, automated QC, generated species richness curves.  
+👉 [GitHub repo](link)
 
 ### **HPP-Inspired Transcriptomics Explorer**
-Conceptual RNA-seq workflow connecting processing conditions to gene expression (QC → normalization → PCA → differential expression → biological interpretation).  
-▶ Repo coming soon
+Conceptual RNA-seq workflow linking processing conditions to gene expression.  
+👉 Repo coming soon
 
 ---
 
-###  Tools
+## 🛠️ Tools I use
 
-`Python` · `R (tidyverse, ggplot2)` · `bash` · `Git/GitHub`  
-`PLINK2` · `TASSEL` · `RStudio`
+`Python` · `R (tidyverse, ggplot2)` · `bash`  
+`Git/GitHub` · `PLINK2` · `TASSEL` · `RStudio`
 
 ---
 
-### 🌐 Where else to find me
+## 🌐 Where else to find me
 
-- Portfolio: https://indhuayyappan.github.io  
-- LinkedIn: https://www.linkedin.com/in/indhu-ayyappan/
-- Email: indhumirra.a@gmail.com
+- **Portfolio:** https://indhuayyappan.github.io  
+- **LinkedIn:** https://www.linkedin.com/in/indhu-ayyappan/  
+- **Email:** indhumirra.a@gmail.com  
