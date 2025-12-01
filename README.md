@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/IndhuAyyappan/IndhuAyyappan/main/assets/indhu_banner.png" width="100%" />
 </p>
-# 👋 Hi, I'm Indhu
+ 👋 Hi, I'm Indhu
 
 Bioinformatics student at the University of Guelph (M.BINF) with an engineering + quality systems background.  
 I love building clean, reproducible workflows for genomics and scientific data.
